@@ -22,5 +22,4 @@ public class leetcode_biweekly_121_C {
         }
         return minOperations;
     }
-    public static void main(Str)
 }
