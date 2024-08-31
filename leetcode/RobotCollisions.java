@@ -1,7 +1,7 @@
-package leetcode;
+package Codes_contest.leetcode;
 
 import java.util.*;
-class Solution {
+class RobotCollisions {
     class Robot{
         int position;
         int health;

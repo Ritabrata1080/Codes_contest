@@ -1,15 +1,18 @@
+package Codes_contest;
+
 import java.util.*;
 
 public class goodbye_2023_C {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
+        int n = sc.nextInt();
         // Input handling
         while(t --> 0){
             generateSquareNumbers(n);
         }
 
-        scanner.close();
+        sc.close();
     }
        static void generateSquareNumbers(int n) {
         int[] numbers = new int[n];
