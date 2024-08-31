@@ -1,4 +1,4 @@
-package leetcode;
+package Codes_contest.leetcode;
 
 import java.util.*;
 class Solution {
